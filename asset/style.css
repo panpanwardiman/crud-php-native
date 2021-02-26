@@ -1,0 +1,26 @@
+.container {
+    width: 50%;
+    margin: auto;
+}
+.flex {
+    display: flex;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.justify-end {
+    justify-content: flex-end;
+}
+.table {
+    width: 100%;
+}
+.table, .table tr, .table th, .table td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
